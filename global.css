@@ -1,0 +1,8 @@
+@tailwind base;  
+@tailwind components;  
+@tailwind utilities;  
+
+/* Optional: Global styles for light/dark mode */  
+body {  
+  transition: background-color 0.5s, color 0.5s;  
+}  
